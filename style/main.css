@@ -21,8 +21,8 @@ main .col-sm{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: 100% auto;
-    height:100%;
-    margin-bottom: 50px auto;
+    height:500%;
+    
 }
 .menu{
     text-align: center;
