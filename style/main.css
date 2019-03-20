@@ -21,7 +21,7 @@ main .col-sm{
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: 100% auto;
-    height:500%;
+    height:500px;
     
 }
 .menu{
